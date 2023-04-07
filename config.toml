@@ -1,9 +1,9 @@
 theme = "identity"
 disableKinds = ['taxonomy', 'term']
-copyright = "2023 ProfileJP"
+copyright = "2023 プロフィール.com"
 
-baseURL = "https://profile.jp.net/sample/"
-title = "Sample - ProfileJP"
+baseURL = "https://xn--dck5ef6fh6g.com/sample3/"
+title = "Sample3 | プロフィール.com"
 
 [params]
 author = "Jane Doe"
