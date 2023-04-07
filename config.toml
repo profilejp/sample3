@@ -1,0 +1,26 @@
+theme = "identity"
+disableKinds = ['taxonomy', 'term']
+copyright = "2023 ProfileJP"
+
+baseURL = "https://profile.jp.net/sample/"
+title = "Sample - ProfileJP"
+
+[params]
+author = "Jane Doe"
+icon = "avatar"
+description = "CONGUE PELLENTESQUE ELEIFEND"
+
+[[params.social]]
+name = "twitter"
+icon = "brands fa-twitter"
+url = "https://twitter.com/"
+
+[[params.social]]
+name = "instagram"
+icon = "brands fa-instagram"
+url = "https://www.instagram.com/"
+
+[[params.social]]
+name = "facebook"
+icon = "brands fa-facebook"
+url = "https://www.facebook.com/"
